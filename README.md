@@ -1,8 +1,12 @@
-<!-- Perfil de GitHub -->
+<p align="center">
+  <img src="https://github.com/mauriciogonzalez0631.png" width="160" style="border-radius:50%;" alt="Foto de perfil de Mauricio González Martínez" />
+</p>
 
-# Hola, soy Mauricio González Martínez 👋
+<h1 align="center">Hola, soy Mauricio González Martínez 👋</h1>
 
-Desarrollador en formación con interés en el desarrollo web, bases de datos y programación orientada a objetos.
+<p align="center">
+  Desarrollador en formación con interés en el desarrollo web, bases de datos y programación orientada a objetos.
+</p>
 
 ---
 
@@ -16,7 +20,7 @@ Desarrollador en formación con interés en el desarrollo web, bases de datos y 
 
 ## Habilidades
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
@@ -31,16 +35,20 @@ Desarrollador en formación con interés en el desarrollo web, bases de datos y 
 
 ## Contacto
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mauriciogonzalez0631)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINK_DE_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=firefox&logoColor=white)](TU_LINK_DE_PORTAFOLIO)
+<p align="center">
+  <a href="https://github.com/mauriciogonzalez0631">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="TU_LINK_DE_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="TU_LINK_DE_PORTAFOLIO">
+    <img src="https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## Estadísticas de GitHub
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api?username=mauriciogonzalez0631&show_icons=true&hide_border=true" />
-
----
-
-Última edición: 05/05/2026
+<p align="center">
+  Última edición: 05/05/2026
+</p>
