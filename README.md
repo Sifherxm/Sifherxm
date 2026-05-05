@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/mauriciogonzalez0631.png" width="160" style="border-radius:50%;" alt="Foto de perfil de Mauricio González Martínez" />
-</p>
-
 <h1 align="center">Hola, soy Mauricio González Martínez 👋</h1>
 
 <p align="center">
