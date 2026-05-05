@@ -1,74 +1,46 @@
-<!-- Your title -->
-## Hello, I'm Mauricio González Martinez!
+<!-- Perfil de GitHub -->
 
-<!-- Your badges
-You can use the website to generate badges: https://shields.io/
--->
+# Hola, soy Mauricio González Martínez 👋
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](htt)
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/zjayers)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zjayers/)
-
-&nbsp;
-
-<!-- Talking about you -->
-**About Me:**
-
-- Pendientes
+Desarrollador en formación con interés en el desarrollo web, bases de datos y programación orientada a objetos.
 
 ---
 
-**Languages and Tools:**
+## Sobre mí
+
+- Me gusta crear soluciones prácticas usando tecnologías web.
+- Estoy aprendiendo y fortaleciendo mis habilidades como desarrollador.
+- Me interesa trabajar en proyectos donde pueda mejorar mi lógica, diseño y manejo de bases de datos.
+
+---
+
+## Habilidades
 
 <p>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
-  <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/backbonejs/backbonejs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
-  <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
-  <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/chaijs/chaijs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
-  <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
-   <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
-  <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/gruntjs/gruntjs-ar21.svg"></code>
-  <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/parceljs/parceljs-ar21.svg"></code>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
-<a href="https://github.com/zjayers/github-readme-stats">
-   <img width="60%" alt="Zach's github stats" src="https://github-readme-stats.vercel.app/api?username=zjayers&show_icons=true&hide_border=true" />
-</a>
+## Contacto
 
------
-Credits: [zjayers](https://github.com/zjayers)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mauriciogonzalez0631)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINK_DE_LINKEDIN)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=firefox&logoColor=white)](TU_LINK_DE_PORTAFOLIO)
 
-Last Edited on: 30/08/2020
+---
+
+## Estadísticas de GitHub
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api?username=mauriciogonzalez0631&show_icons=true&hide_border=true" />
+
+---
+
+Última edición: 05/05/2026
